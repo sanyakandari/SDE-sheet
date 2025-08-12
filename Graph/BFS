@@ -2,6 +2,7 @@ GIVEN :- let us assume we have a disconnectes graph with some components. with i
 method of storing the graph --> Adjacency ArrayList with N arrayist list.
 
 BFS- TRAVERSING THE ADJACENT NODES AT FIRST
+sanya's first commit
 
 ALGO-
 1. always have a visited array to check appearance of element.
