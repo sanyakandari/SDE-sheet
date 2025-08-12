@@ -4,6 +4,8 @@ method of storing the graph --> Adjacency ArrayList with N arrayist list.
 
 DFS is a recursive function. just like preorder traversal in trees
 
+hellooooooo
+
 ALGO- 
 1. store node val to res
 2. mark visited
